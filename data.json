@@ -1,0 +1,37 @@
+[
+    {
+        "name": "lucy",
+        "age": 23,
+        "password": "123",
+        "email": "lucy@163.com",
+        "hobbies": ["游泳", "美食", "旅游"]
+    },
+    {
+        "name": "zhangsan",
+        "age": 18,
+        "password": "100",
+        "email": "zhangsan@163.com",
+        "hobbies": ["游戏", "篮球", "喝酒"]
+    },
+    {
+        "name": "judy",
+        "age": 28,
+        "password": "677",
+        "email": "judy@163.com",
+        "hobbies": ["抽烟", "喝酒", "烫头"]
+    },
+    {
+        "name": "lili",
+        "age": 25,
+        "password": "900",
+        "email": "lili@163.com",
+        "hobbies": ["逛街", "购物", "烫头"]
+    },
+    {
+        "name": "wangwu",
+        "age": 41,
+        "password": "831",
+        "email": "wangwu@163.com",
+        "hobbies": ["打牌", "喝酒", "抽烟"]
+    }
+]
